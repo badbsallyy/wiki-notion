@@ -35,6 +35,8 @@ env/
 # Output files
 output/
 exports/
+examples/output/
+examples/workflow_output/
 
 # Temporary files
 tmp/
