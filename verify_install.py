@@ -23,7 +23,6 @@ def check_dependencies():
         'requests',
         'markdown',
         'bs4',  # beautifulsoup4
-        'github',  # PyGithub
         'html2text',
         'click',
     ]

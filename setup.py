@@ -10,7 +10,6 @@ setup(
         "requests>=2.31.0",
         "markdown>=3.5.0",
         "beautifulsoup4>=4.12.0",
-        "PyGithub>=2.1.1",
         "html2text>=2020.1.16",
         "click>=8.1.0",
     ],

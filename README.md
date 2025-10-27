@@ -166,9 +166,9 @@ Options:
 
 - Python 3.7+
 - requests
+- requests
 - markdown
 - beautifulsoup4
-- PyGithub
 - html2text
 - click
 

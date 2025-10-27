@@ -175,7 +175,6 @@ All dependencies are properly specified in `requirements.txt`:
 - requests - HTTP library
 - markdown - Markdown parser
 - beautifulsoup4 - HTML parsing
-- PyGithub - GitHub API
 - html2text - HTML to Markdown conversion
 - click - CLI framework
 
